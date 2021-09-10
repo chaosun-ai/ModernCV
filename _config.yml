@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Chao Sun
-title: Tech Lead (Machine Learning, dynamic system modelling)
+title: Tech Lead (Machine Learning, digital, dynamic system)
 email: chaosun.ai@gmail.com
 website: https://chaosun-ai.github.io/ModernCV/
 
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Chao and I'm a Tech Lead working in AMRC in UK. I've been actively applied machine learning to solve complex engineering problems. At my spare time, I like doing data science competitions on Kaggle to keep myself sharp. And most importantly, I learn new techs super fast!
+  Hi, my name's Chao and I'm a Tech Lead working at the [AMRC](https://www.youtube.com/watch?v=PTSDBLr62qI&ab_channel=AMRC) in UK. I've been actively applied machine learning to solve complex engineering problems. At my spare time, I like doing data science competitions on Kaggle to keep myself sharp. And most importantly, I learn new techs super fast!
 
   I am most skilled in: <mark>Python</mark> and <mark>Machine Learning</mark>
 
@@ -58,11 +58,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: The AMRC
+        link: amrc.co.uk
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Tech Lead (Machine Learning, digital, dynamic system)
+        caption: January 2019 - Present
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
