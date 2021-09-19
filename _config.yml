@@ -97,7 +97,7 @@ content:
         quote: >
           Established in 1908, UBC is British Columbia's oldest university. Harvard The university ranks among the top three universities in Canada.
         description: | # this will include new lines to allow paragraphs
-          During my time at UBC, I learnt most of my skills on scientific and engineering research. 
+          During my time at UBC, I learnt a lot of skills on scientific and engineering research, including system design and modelling, data collection/analysis and paper writing. 
       - layout: left
         title: Shanghai Jiao Tong University
         caption: Shanghai, China. 2010 - 2013
@@ -105,31 +105,27 @@ content:
         quote: >
           Established in 1896, SJTU is is one of China's oldest universities. SJTU is a C9 League university (China's Ivy League).
         description: | # this will include new lines to allow paragraphs
-          During my time at SJTU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at SJTU I learnt a lot of key skills, including programming in C++/Matlab, computational geometry, robotics, control system design, computer-aided manufacturing. 
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
       - layout: left          
         title: Shanghai Jiao Tong University
         caption: Shanghai, China. 2005 - 2009
         sub_title: B.S Mechanical Engineering (Major) Business Management (Minor)
         description: | # this will include new lines to allow paragraphs
-          During my time at SJTU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.          
+          During my time at SJTU I learnt most of my skills that have I have taken through my career. I thoroughly enjoyed my time as university. I was awarded Academic Excellence graduates(2009) because of high academic achievement.    
 
   - title: Data Science Competition # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
+        title: Indoor Location & Navigation. 
         caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        sub_title: Solo on Kaggle and won a bronze medal.
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Established in 1636,  is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.  
+          During my time at  I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+ 
 
   - title: Selected Publication # Title for the section
     layout: list # Type of content section (list/text)
