@@ -229,7 +229,7 @@ content:
       About Twin Control (Digital Machining) Projects:
       <iframe width="560" height="315" src="https://www.youtube.com/watch?v=lzRTv-nt-b4&ab_channel=TwinControl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       
-        layout: text
+    layout: text
     content: | # this will include new lines to allow paragraphs
       About COROMA (Cognitively Enhanced Robot for Flexible Manufacturing of Metal and Composite Part) Projects:
       <iframe width="560" height="315" src="https://www.youtube.com/watch?v=NXvJOqTEz9U&ab_channel=CoromaProject" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
