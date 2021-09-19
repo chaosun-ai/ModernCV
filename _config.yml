@@ -65,12 +65,11 @@ content:
         caption: January 2019 - Present
         description: | # this will include new lines to allow paragraphs
              - Technically led 3 engineers and worked with 1 project manager to tackle industry challenges by using data science and machine learning methods.
-        description: | # this will include new lines to allow paragraphs
-             - Implemented computer vision and machine learning solutions to business problems such as production time prediction, food inspection, autonomous robots.
-            # - Successfully delivered 5 industry projects with high-quality and innovative machine learning models and 2 journal publications.
-            # - Prepared and Presented results and technology roadmap to end clients.
-            # - Served as a guest lecturer on Data Science at AMRC Training Centre. 
-            # - Think Ahead Engaging Researcher Award. AMRC. (2020)
+             - Implemented computer vision and machine learning solutions to business problems such as production time prediction, food inspection, autonomous robots.
+               - Successfully delivered 5 industry projects with high-quality and innovative machine learning models and 2 journal publications.
+               - Prepared and Presented results and technology roadmap to end clients.
+               - Served as a guest lecturer on Data Science at AMRC Training Centre. 
+               - Think Ahead Engaging Researcher Award. AMRC. (2020)
 
             
   - title: Projects # Title for the section
