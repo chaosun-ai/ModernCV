@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
 
-  - title: Experience # Title for the section
+  - title: <mark>Experience</mark>  # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -183,7 +183,7 @@ content:
       - layout: top-middle
         title:  
         description: | # this will include new lines to allow paragraphs
-            Full list on [Google Scholar](https://scholar.google.com/citations?user=hqN1gi0AAAAJ&hl=en)            
+            Full publication list on [Google Scholar](https://scholar.google.com/citations?user=hqN1gi0AAAAJ&hl=en)            
   - title: Videos
     layout: list
     content:
