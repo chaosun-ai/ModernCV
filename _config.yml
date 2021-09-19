@@ -50,7 +50,7 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Chao and I'm a Tech Lead working at the [AMRC](https://www.youtube.com/watch?v=PTSDBLr62qI&ab_channel=AMRC) in UK. I've been actively applied machine learning to solve complex engineering problems. At my spare time, I like doing data science competitions on Kaggle to keep myself sharp. And most importantly, I learn new techs super fast!
 
-  I am most skilled in: <mark>Python</mark> and <mark>Machine Learning</mark>
+  I am most skilled in: <mark>Python</mark> and <mark>Machine Learning</mark>. I got hands-on experience with Scikit-learn/TensorFlow/PyTorch/Keras.
 
 content:
 
@@ -63,16 +63,20 @@ content:
         # link_text: boringcompany.com
         sub_title: Tech Lead (Machine Learning, digital, dynamic system)
         caption: January 2019 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+             - Technically led 3 engineers and worked with 1 project manager to tackle industry challenges by using data science and machine learning methods.
+             - Implemented computer vision and machine learning solutions to business problems such as production time prediction, food inspection, autonomous robots.
+             - Successfully delivered 5 industry projects with high-quality and innovative machine learning models and 2 journal publications.
+             - Prepared and Presented results and technology roadmap to end clients.
+             - Served as a guest lecturer on Data Science at AMRC Training Centre. 
+             - Think Ahead Engaging Researcher Award. AMRC. (2020)
+
             
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: Super awesome project 
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -87,6 +91,37 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
+      - layout: top-middle
+        title: Super awesome project 
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          
+      - layout: top-middle
+        title: Super awesome project 
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -162,15 +197,28 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/tjzOzuKQhSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      Alongside my interests in data science and machine learning some of my other interests and hobbies are:
+      - guitar
+      - music
+      - hiking
+  - title: Videos
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      About AMRC:
+      Advanced Manufacturing Research Centre (AMRC UK,  formerly AMRC with Boeing) is a network of world-leading research and innovation centres working with manufacturing companies of any size from around the globe.
+      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=PTSDBLr62qI&ab_channel=AMRC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
       #Look at this cool image  
       #![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      About Twin Control (Digital Machining) Projects:
+      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=lzRTv-nt-b4&ab_channel=TwinControl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
+        layout: text
+    content: | # this will include new lines to allow paragraphs
+      About COROMA (Cognitively Enhanced Robot for Flexible Manufacturing of Metal and Composite Part) Projects:
+      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=NXvJOqTEz9U&ab_channel=CoromaProject" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Footer
 footer_show_references: true
