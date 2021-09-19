@@ -50,7 +50,7 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Chao and I'm a Tech Lead working at the [AMRC](https://www.youtube.com/watch?v=PTSDBLr62qI&ab_channel=AMRC) in UK. I've been actively applied machine learning to solve complex engineering problems. At my spare time, I like doing data science competitions on Kaggle to keep myself sharp. And most importantly, I learn new techs super fast!
 
-  I am most skilled in: <mark>Python</mark> and <mark>Machine Learning</mark>. I got hands-on experience with Scikit-learn/TensorFlow/PyTorch/Keras.
+  I am most skilled in: <mark>Python</mark> and <mark>Machine Learning</mark>. #I got hands-on experience with Scikit-learn/TensorFlow/PyTorch/Keras.
 
 content:
 
@@ -58,20 +58,34 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The AMRC
+        title: AMRC
         link: amrc.co.uk
         # link_text: boringcompany.com
         sub_title: Tech Lead (Machine Learning, digital, dynamic system)
         caption: January 2019 - Present
         description: | # this will include new lines to allow paragraphs
-             - Technically led 3 engineers and worked with 1 project manager to tackle industry challenges by using data science and machine learning methods.
-             - Implemented computer vision and machine learning solutions to business problems such as production time prediction, food inspection, autonomous robots.
+               - Technically led 3 engineers and worked with 1 project manager to tackle industry challenges by using data science and machine learning methods.
+               - Implemented computer vision and machine learning solutions to business problems such as production time prediction, food inspection, autonomous robots.
                - Successfully delivered 5 industry projects with high-quality and innovative machine learning models and 2 journal publications.
                - Prepared and Presented results and technology roadmap to end clients.
                - Served as a guest lecturer on Data Science at AMRC Training Centre. 
                - Think Ahead Engaging Researcher Award. AMRC. (2020)
-
-            
+      - layout: left
+        title: AMRC
+        link: amrc.co.uk
+        # link_text: boringcompany.com
+        sub_title: Project Engineer
+        caption: February 2017 - December 2018
+        description: | # this will include new lines to allow paragraphs
+               - Improved robot systems by developing data-driven and rule-based methods.
+      - layout: left
+        title: University of British Columbia
+        link: ubc.ca
+        # link_text: boringcompany.com
+        sub_title: Postdoc Research Fellow
+        caption: August 2016 - February 2017
+        description: | # this will include new lines to allow paragraphs
+               - Developed a high-efficient computational geometry algorithm with C++/MATLAB.                 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
