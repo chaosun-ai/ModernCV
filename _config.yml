@@ -50,8 +50,7 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Chao and I'm a Tech Lead working at the [AMRC](https://www.youtube.com/watch?v=PTSDBLr62qI&ab_channel=AMRC) in UK. I've been actively applied machine learning to solve complex engineering problems. At my spare time, I like doing data science competitions on Kaggle to keep myself sharp. And most importantly, I learn new techs super fast!
 
-  I am most skilled in: <mark>Python</mark> and <mark>Machine Learning</mark>. 
-  # I got hands-on experience with Scikit-learn/TensorFlow/PyTorch/Keras.
+  I am most skilled in: <mark>Python</mark> and <mark>Machine Learning</mark>. Hands-on experience with Scikit-learn/TensorFlow/PyTorch/Keras.
 
 content:
 
@@ -182,7 +181,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Accurate prediction of machining cycle times is important in the manufacturing industry. Usually, Computer Aided Manufacturing (CAM) software estimates the machining times using the commanded feedrate from the toolpath file using basic kinematic settings. Typically, the methods do not account for toolpath geometry or toolpath tolerance and therefore under estimate the machining cycle times considerably. Removing the need for machine specific knowledge, this paper presents a data-driven feedrate and machining cycle time prediction method by building a neural network model for each machine tool axis. In this study, datasets composed of the commanded feedrate, nominal acceleration, toolpath geometry and the measured feedrate were used to train a neural network model. Validation trials using a representative industrial thin wall structure component on a commercial machining centre showed that this method estimated the machining time with more than 90% accuracy. This method showed that neural network models have the capability to learn the behavior of a complex machine tool system and predict cycle times. Further integration of the methods will be critical in the implantation of digital twins in Industry 4.0.
       - layout: top-middle
-        title: Full list
+        title:  
         description: | # this will include new lines to allow paragraphs
             Full list on [Google Scholar](https://scholar.google.com/citations?user=hqN1gi0AAAAJ&hl=en)            
   - title: Videos
