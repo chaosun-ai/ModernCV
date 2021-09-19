@@ -186,7 +186,8 @@ content:
       - layout: top-middle
         description: | # this will include new lines to allow paragraphs
             About <mark>AMRC</mark>:
-            Advanced Manufacturing Research Centre (AMRC UK,  formerly AMRC with Boeing) is a network of world-leading research and innovation centres working with manufacturing companies of any size from around the globe.<iframe width="560" height="315" src="https://www.youtube.com/embed/PTSDBLr62qI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            Advanced Manufacturing Research Centre (AMRC UK,  formerly AMRC with Boeing) is a network of world-leading research and innovation centres working with manufacturing companies of any size from around the globe.
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/PTSDBLr62qI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       - layout: top-middle
         description: | # this will include new lines to allow paragraphs
             About Twin Control (Digital Machining) Project:
