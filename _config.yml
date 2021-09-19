@@ -182,19 +182,20 @@ content:
             Accurate prediction of machining cycle times is important in the manufacturing industry. Usually, Computer Aided Manufacturing (CAM) software estimates the machining times using the commanded feedrate from the toolpath file using basic kinematic settings. Typically, the methods do not account for toolpath geometry or toolpath tolerance and therefore under estimate the machining cycle times considerably. Removing the need for machine specific knowledge, this paper presents a data-driven feedrate and machining cycle time prediction method by building a neural network model for each machine tool axis. In this study, datasets composed of the commanded feedrate, nominal acceleration, toolpath geometry and the measured feedrate were used to train a neural network model. Validation trials using a representative industrial thin wall structure component on a commercial machining centre showed that this method estimated the machining time with more than 90% accuracy. This method showed that neural network models have the capability to learn the behavior of a complex machine tool system and predict cycle times. Further integration of the methods will be critical in the implantation of digital twins in Industry 4.0.          
   - title: Videos
     layout: list
-    content: | # this will include new lines to allow paragraphs
-      About <mark>AMRC</mark>:
-      Advanced Manufacturing Research Centre (AMRC UK,  formerly AMRC with Boeing) is a network of world-leading research and innovation centres working with manufacturing companies of any size from around the globe.
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/PTSDBLr62qI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      About Twin Control (Digital Machining) Project:
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/lzRTv-nt-b4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    content:
+      - layout: top-middle
+        description: | # this will include new lines to allow paragraphs
+            About <mark>AMRC</mark>:
+            Advanced Manufacturing Research Centre (AMRC UK,  formerly AMRC with Boeing) is a network of world-leading research and innovation centres working with manufacturing companies of any size from around the globe.<iframe width="560" height="315" src="https://www.youtube.com/embed/PTSDBLr62qI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      - layout: top-middle
+        description: | # this will include new lines to allow paragraphs
+            About Twin Control (Digital Machining) Project:
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/lzRTv-nt-b4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      About COROMA (Cognitively Enhanced Robot for Flexible Manufacturing of Metal and Composite Part) Project:
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/NXvJOqTEz9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      - layout: top-middle
+        description: | # this will include new lines to allow paragraphs
+            About COROMA (Cognitively Enhanced Robot for Flexible Manufacturing of Metal and Composite Part) Project:
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/NXvJOqTEz9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
