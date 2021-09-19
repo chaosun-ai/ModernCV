@@ -220,7 +220,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       About AMRC:
       Advanced Manufacturing Research Centre (AMRC UK,  formerly AMRC with Boeing) is a network of world-leading research and innovation centres working with manufacturing companies of any size from around the globe.
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/PTSDBLr62qI&ab_channel=AMRC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/PTSDBLr62qI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Footer
 footer_show_references: false
