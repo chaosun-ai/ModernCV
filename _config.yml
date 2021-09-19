@@ -171,12 +171,12 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: PhysiNet - A Combination of Physics-based Model and Neural Network Model for Digital Twins
+        title: PhysiNet \: A Combination of Physics-based Model and Neural Network Model for Digital Twins
         link: arxiv.org/abs/2106.14790
         description: | # this will include new lines to allow paragraphs
             As the real-time digital counterpart of a physical system or process, digital twins are utilized for system simulation and optimization. Neural networks are one way to build a digital twins model by using data especially when a physics-based model is not accurate or even not available. However, for a newly designed system, it takes time to accumulate enough data for neural network moded and only an approximate physics-based model is available. To take advantage of both models, this paper proposed a model that combines the physics-based model and the neural network model to improve the prediction accuracy for the whole life cycle of a system. The proposed model was able to automatically combine the models and boost their prediction performance. Experiments showed that the proposed hybrid model outperformed both the physics-based model and the neural network model.
       - layout: top-middle
-        title: Machining Cycle Time Prediction: Data-driven Modelling of Machine Tool Feedrate Behavior with Neural Networks
+        title: Machining Cycle Time Prediction \: Data-driven Modelling of Machine Tool Feedrate Behavior with Neural Networks
         link: arxiv.org/abs/2106.09719        
         description: | # this will include new lines to allow paragraphs
             Accurate prediction of machining cycle times is important in the manufacturing industry. Usually, Computer Aided Manufacturing (CAM) software estimates the machining times using the commanded feedrate from the toolpath file using basic kinematic settings. Typically, the methods do not account for toolpath geometry or toolpath tolerance and therefore under estimate the machining cycle times considerably. Removing the need for machine specific knowledge, this paper presents a data-driven feedrate and machining cycle time prediction method by building a neural network model for each machine tool axis. In this study, datasets composed of the commanded feedrate, nominal acceleration, toolpath geometry and the measured feedrate were used to train a neural network model. Validation trials using a representative industrial thin wall structure component on a commercial machining centre showed that this method estimated the machining time with more than 90% accuracy. This method showed that neural network models have the capability to learn the behavior of a complex machine tool system and predict cycle times. Further integration of the methods will be critical in the implantation of digital twins in Industry 4.0.          
