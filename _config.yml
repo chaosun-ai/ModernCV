@@ -191,12 +191,12 @@ content:
             
       - layout: top-middle
         description: | # this will include new lines to allow paragraphs
-            About Twin Control (Digital Machining) Project:
+            About <mark>Twin Control</mark> (Digital Machining) Project:
             <iframe width="560" height="315" src="https://www.youtube.com/embed/lzRTv-nt-b4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       
       - layout: top-middle
         description: | # this will include new lines to allow paragraphs
-            About COROMA (Cognitively Enhanced Robot for Flexible Manufacturing of Metal and Composite Part) Project:
+            About <mark>COROMA</mark> (Cognitively Enhanced Robot for Flexible Manufacturing of Metal and Composite Part) Project:
             <iframe width="560" height="315" src="https://www.youtube.com/embed/NXvJOqTEz9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - title: A Little More About Me
     layout: text
