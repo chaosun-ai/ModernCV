@@ -148,7 +148,7 @@ content:
         caption: Vancouver, Canada. 2014 - 2016
         sub_title: Visiting Ph.D. Student, Mechanical Engineering
         quote: >
-          Established in 1908, UBC is British Columbia's oldest university. Harvard The university ranks among the top three universities in Canada.
+          Established in 1908, UBC ranks among the top three universities in Canada. It is British Columbia's oldest university.
         description: | # this will include new lines to allow paragraphs
           During my time at UBC, I learnt a lot of skills on scientific research and engineering, including system design and modelling, data collection/analysis and paper writing. 
       - layout: left
@@ -156,7 +156,7 @@ content:
         caption: Shanghai, China. 2010 - 2013
         sub_title: PhD (Co-supervised by UBC) Mechanical Engineering
         quote: >
-          Established in 1896, SJTU is is one of China's oldest universities. SJTU is a C9 League university (China's Ivy League).
+          Established in 1896, SJTU is is one of China's oldest universities. It is a C9 League university (China's Ivy League).
         description: | # this will include new lines to allow paragraphs
           During my time at SJTU I learnt a lot of key skills, including programming in C++/Matlab, computational geometry, robotics, control system design, computer-aided manufacturing. 
 
